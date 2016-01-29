@@ -41,5 +41,3 @@ If the tests upload successfully but do not run then verify that the ***-tests.j
 
     jar tf target/InstagramAppiumTest-0.0.1-SNAPSHOT-tests.jar 
     
-
-# iOSAppiumTest
